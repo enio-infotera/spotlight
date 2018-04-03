@@ -88,3 +88,8 @@ $ rake
 ```
 
 This utilizes Solr and the testing rails app automatically.
+
+## Translations
+
+```sh
+$ bundle exec i18n-tasks health
